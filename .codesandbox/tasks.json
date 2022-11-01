@@ -14,7 +14,7 @@
       "command": "yarn develop",
       "runAtStart": false,
       "preview": {
-        "port": 3000,
+        "port": 8081,
         "prLink": "direct"
       }
     },
