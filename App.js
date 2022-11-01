@@ -24,7 +24,7 @@ const App = () => {
         barStyle={isDarkMode ? 'light-content' : 'dark-content'}
         backgroundColor={backgroundStyle.backgroundColor}
       />
-      <Text>Welcome to codesandbox testing Namit</Text>
+      <Text>Welcome to codesandbox testing Namit Sir</Text>
     </SafeAreaView>
   );
 };
